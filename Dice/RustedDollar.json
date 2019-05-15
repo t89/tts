@@ -1,0 +1,44 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "PlayerTurn": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.5554848,
+        "posY": 1.06795752,
+        "posZ": -6.30722141,
+        "rotX": -3.88132248E-05,
+        "rotY": 312.969666,
+        "rotZ": -4.673265E-06,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "scaleZ": 1.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921605,
+        "b": 0.9999998
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=00YWZ28Y",
+        "DiffuseURL": "http://i.imgur.com/hzmqUza.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 3
+      }
+    }
+  ]
+}

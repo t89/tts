@@ -1,0 +1,44 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "PlayerTurn": "",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 15.281106,
+        "posY": 1.05306172,
+        "posZ": -7.024378,
+        "rotX": 5.612335E-06,
+        "rotY": 176.144592,
+        "rotZ": 4.73673435E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.9921605,
+        "b": 0.9999998
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw.php?i=00YWZ28Y",
+        "DiffuseURL": "http://i.imgur.com/BoKIbES.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 3
+      }
+    }
+  ]
+}
